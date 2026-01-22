@@ -31,9 +31,9 @@ const App: React.FC = () => {
         </div>
 
         <div className="animate-fadeInUp" style={{ animationDelay: '0.4s' }}>
-          <h1 className="font-great-vibes text-7xl sm:text-9xl text-gray-800">Hend</h1>
-          <p className="font-great-vibes text-4xl sm:text-5xl text-gray-600 my-2">&</p>
           <h1 className="font-great-vibes text-7xl sm:text-9xl text-gray-800">Ahmed</h1>
+          <p className="font-great-vibes text-4xl sm:text-5xl text-gray-600 my-2">&</p>
+          <h1 className="font-great-vibes text-7xl sm:text-9xl text-gray-800">Hend</h1>
         </div>
 
         <div className="w-full max-w-md animate-fadeInUp" style={{ animationDelay: '0.6s' }}>
